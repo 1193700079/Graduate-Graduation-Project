@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python infer.py config/psenet/psenet_r50_ic15_1024.py   checkpoints/psenet_r50_ic15_1024/checkpoint_133ep.pth.tar
